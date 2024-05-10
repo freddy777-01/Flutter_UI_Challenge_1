@@ -1,4 +1,4 @@
-# UI Challeng 1
+# Flutter UI Challeng 1
 
 > Hello! This is a simple UI challeng 1... from Long days of not coding Dart.
 
